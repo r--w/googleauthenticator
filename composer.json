@@ -1,5 +1,5 @@
 {
-    "name": "wayhood/googleauthenticator",
+    "name": "rw/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
     "type": "library",
     "keywords": ["googleauthenticator"],
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "wh\\googleauthenticator\\": ""
+            "rw\\googleauthenticator\\": ""
         }
     }
 }

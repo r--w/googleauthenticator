@@ -1,11 +1,11 @@
 <?php
 
-namespace wh\googleauthenticator;
+namespace rw\googleauthenticator;
 
 /**
  * This is just an example.
  */
-class GoogleAuthenticator extends \yii\base\Component
+class GoogleAuthenticator
 {
     protected $_codeLength = 6;
 
